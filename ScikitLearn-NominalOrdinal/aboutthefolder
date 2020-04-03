@@ -1,0 +1,7 @@
+#dataprocessing is one of the important steps in Data Science projects. However, we know it is the most time-consuming process.
+
+Here is the tip to make #dataprocessing quick and more efficient for Nominal and Ordinal categorical data. This will be helping us to understand the encoded values more easily. 
+
+#scikitlearn's OneHotEncoder and #OrdinalEncoder will help you to achieve this quickly. Have a look at the code and video.
+
+www.cognitive-analytics.in
